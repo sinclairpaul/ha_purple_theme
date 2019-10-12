@@ -8,6 +8,14 @@ Very much WIP, borrowed influences from:
 
 [HA Slate Theme](https://github.com/seangreen2/slate_theme)
 
+---
+
+![1](images/one.png)
+
+![2](images/two.png)
+
+![3](images/three.png)
+
 ## License
 
 MIT License
