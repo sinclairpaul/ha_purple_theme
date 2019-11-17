@@ -81,3 +81,8 @@ purple:
   lumo-tint-5pct: '#222222'
   # fix for device configuration screen
   card-background-color: "var(--paper-card-background-color)"
+  # Add Switch Config 
+  switch-checked-color: "var(--paper-toggle-button-checked-button-color)"
+  switch-unchecked-button-color: "var(--paper-toggle-button-unchecked-button-color)"
+  switch-unchecked-color: "var(--paper-toggle-button-unchecked-bar-color)"
+  switch-unchecked-track-color: "var(--paper-toggle-button-unchecked-bar-color)"
