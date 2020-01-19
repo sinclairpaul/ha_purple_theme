@@ -10,11 +10,11 @@ Very much WIP, borrowed influences from:
 
 ---
 
-![1](images/one.png)
+![1](https://raw.githubusercontent.com/sinclairpaul/ha_purple_theme/master/images/one.png)
 
-![2](images/two.png)
+![2](https://raw.githubusercontent.com/sinclairpaul/ha_purple_theme/master/images/two.png)
 
-![3](images/three.png)
+![3](https://raw.githubusercontent.com/sinclairpaul/ha_purple_theme/master/images/three.png)
 
 ## License
 
